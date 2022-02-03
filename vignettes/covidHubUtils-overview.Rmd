@@ -340,7 +340,7 @@ p +
 
 ## Plot multiple forecast dates
 
-The following code looks at two models’ forecasts of incident deaths for the same location at three different forecast time points. 
+The following code looks at two models’ forecasts of incident deaths for the same location at three different forecast time points.
 
 ```{r message=FALSE}
 fdat <- load_forecasts(
